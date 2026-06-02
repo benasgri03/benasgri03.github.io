@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Benas Grigalius Hugo puslapis</title>
-    <link>https://benasgri03.github.io/</link>
-    <description>Recent content on Benas Grigalius Hugo puslapis</description>
-    <generator>Hugo</generator>
-    <language>lt-lt</language>
-    <lastBuildDate>Tue, 02 Jun 2026 23:14:55 +0300</lastBuildDate>
-    <atom:link href="https://benasgri03.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pirmas įrašas</title>
-      <link>https://benasgri03.github.io/posts/pirmas-irasas/</link>
-      <pubDate>Tue, 02 Jun 2026 23:14:55 +0300</pubDate>
-      <guid>https://benasgri03.github.io/posts/pirmas-irasas/</guid>
-      <description>&lt;h2 id=&#34;mano-pirmas-hugo-įrašas&#34;&gt;Mano pirmas Hugo įrašas&lt;/h2&gt;
-&lt;p&gt;Tai yra mano pirmas puslapis, sukurtas su Hugo.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Kodo citata:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install nginx
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl start nginx
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<link>/</link>
+		<description>Recent content on </description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 02 Jun 2026 23:30:00 +0300</lastBuildDate>
+		
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apie mane</title>
+				<link>/apie-mane/</link>
+				<pubDate>Tue, 02 Jun 2026 23:30:00 +0300</pubDate>
+				<guid>/apie-mane/</guid>
+				<description>&lt;p&gt;# Apie mane&lt;/p&gt;&#xA;&lt;p&gt;Sveiki, mano vardas Benas Grigalius.&lt;/p&gt;&#xA;&lt;p&gt;Šis puslapis sukurtas kaip papildomas Hugo tinklalapio meniu punktas laboratoriniam darbui.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Pirmas įrašas</title>
+				<link>/posts/pirmas-irasas/</link>
+				<pubDate>Tue, 02 Jun 2026 23:14:55 +0300</pubDate>
+				<guid>/posts/pirmas-irasas/</guid>
+				<description>&lt;h2 id=&#34;mano-pirmas-hugo-įrašas&#34;&gt;Mano pirmas Hugo įrašas&lt;/h2&gt;&#xA;&lt;p&gt;Tai yra mano pirmas puslapis, sukurtas su Hugo.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Kodo citata:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install nginx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl start nginx&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+			</item>
+	</channel>
 </rss>
