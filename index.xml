@@ -13,15 +13,12 @@
       <link>https://benasgri03.github.io/posts/pirmas-irasas/</link>
       <pubDate>Tue, 02 Jun 2026 23:14:55 +0300</pubDate>
       <guid>https://benasgri03.github.io/posts/pirmas-irasas/</guid>
-      <description>&lt;p&gt;# Mano pirmas Hugo įrašas&lt;/p&gt;
+      <description>&lt;h1 id=&#34;mano-pirmas-hugo-įrašas&#34;&gt;Mano pirmas Hugo įrašas&lt;/h1&gt;
 &lt;p&gt;Tai yra mano pirmas puslapis, sukurtas su Hugo.&lt;/p&gt;
-&lt;p&gt;![Linux Tux paveiksliukas](&lt;a href=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png&#34;&gt;https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Linux Tux paveiksliukas&#34; loading=&#34;lazy&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Kodo citata:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install nginx
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl start nginx
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
